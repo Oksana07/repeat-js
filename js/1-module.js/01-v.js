@@ -18,10 +18,10 @@
 // Посчитать суму товаров в козине магазина
 // Нужно ввести цену 3-х товаров и посчитать их суму
 
-const phonePrice = Number(prompt('Enter phone price')); // 10
-const tvPrice = +prompt('Enter tv price'); // 12
-const playStationPrice = Number(prompt('Enter ps price')) // 8
+// const phonePrice = Number(prompt('Enter phone price')); // 10
+// const tvPrice = +prompt('Enter tv price'); // 12
+// const playStationPrice = Number(prompt('Enter ps price')) // 8
 
-const result = phonePrice + tvPrice + playStationPrice;
+// const result = phonePrice + tvPrice + playStationPrice;
 
-console.log(result); // 30
+// console.log(result); // 30
