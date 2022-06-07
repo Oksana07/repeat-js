@@ -33,13 +33,4 @@
 
 // console.log("Ввели пароль: ", password);
 
-function makeTransaction(pricePerDroid, orderedQuantity, customerCredits) {
-    let message;
-    const totalPrice = pricePerDroid * orderedQuantity;
-  if(totalPrice <= customerCredits){
-    message = `You ordered ${orderedQuantity} droids, you have ${customerCredits} credits left.`;
-  } else {
-    message = "Insufficient funds!";
-  }
-    return message;
-  }
+// const max
